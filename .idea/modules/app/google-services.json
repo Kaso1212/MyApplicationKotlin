@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742459415780",
+    "firebase_url": "https://kasala-testing.firebaseio.com",
+    "project_id": "kasala-testing",
+    "storage_bucket": "kasala-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742459415780:android:f78830d7d5032063b9a0f1",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742459415780-i1bautfm5udgcts4un19kh0ruanbd5oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplicationkotlin",
+            "certificate_hash": "93479da44d2f1657a734bbdc123a94f5eb24729f"
+          }
+        },
+        {
+          "client_id": "742459415780-punsbr7hccnqocr0r2d6ehnuevk35q2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4qmTQEvzra4Cg_C3RDm7YdfM6pXzQ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742459415780-punsbr7hccnqocr0r2d6ehnuevk35q2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
